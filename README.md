@@ -17,7 +17,7 @@ The flowchart of the proposed MEIS method is shown below.
 ## Running the code
 The code works on Matlab 2022b software under Windows 11 system, and other versions of Matlab software should be able to run, but it has not been tested.
 
-**DEMO_MEIS_MI1_SD.m:** The program performs a single source domain experiment demo.
+**DEMO_MEIS_MI1_SD.m:** A demo program that performs single-source domain experiments on the BCICIV-1 dataset.
 
 **MEIS.m:** MEIS method code implementation.
 
@@ -27,6 +27,28 @@ The code works on Matlab 2022b software under Windows 11 system, and other versi
 Experimental results and comparison methods are shown in the following table.
 ![image](https://github.com/ZilinL/MEIS/assets/10232596/3fcaabaf-6785-4edd-ba05-276093ac978a)
 
-## Reference
+## Citation
 If our work has been helpful to your research, please consider citing it.
-(The article has been accepted.)
+
+## Reference
+```
+@Article{zhang2020manifold,
+  title={Manifold Embedded Knowledge Transfer for Brain-Computer Interfaces},
+  author={Zhang, Wen and Wu, Dongrui},
+  journal={IEEE Trans. on Neural Systems and Rehabilitation Engineering},
+  volume={28},
+  number={5},
+  pages={1117--1127},
+  year={2020}
+}
+```
+
+```
+@article{huang2006correcting,
+  title={Correcting sample selection bias by unlabeled data},
+  author={Huang, Jiayuan and Gretton, Arthur and Borgwardt, Karsten and Sch{\"o}lkopf, Bernhard and Smola, Alex},
+  journal={Advances in neural information processing systems},
+  volume={19},
+  year={2006}
+}
+```
