@@ -28,7 +28,7 @@ Experimental results and comparison methods are shown in the following table.
 ![image](https://github.com/ZilinL/MEIS/assets/10232596/3fcaabaf-6785-4edd-ba05-276093ac978a)
 
 ## Citation
-If our work has been helpful to your research, please consider citing it.
+If our work has been helpful to your research, please consider citing it.(It will be published soon)
 
 ## Reference
 ```
